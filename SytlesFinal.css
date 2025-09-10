@@ -7,7 +7,7 @@
 
 .shopping-cart {
     background-color: var(--white);
-    border: 2px solid var(--blue);
+    border: 10px solid var(--blue);
     padding: 20px;
     max-width: 400px;
     margin: 50px auto;
@@ -18,7 +18,7 @@
 
 .shopping-cart h2 {
     text-align: center;
-    color: var(--blue);
+    color: var(--green);
 }
 
 .shopping-cart ul {
@@ -40,7 +40,7 @@
 
 .btn-pay {
     display: inline-block;
-    background-color: var(--blue);
+    background-color: var(--green);
     color: var(--white);
     padding: 10px 20px;
     border: none;
